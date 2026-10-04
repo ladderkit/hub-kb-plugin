@@ -1,0 +1,14 @@
+{
+  "name": "ladderkit",
+  "owner": {
+    "name": "ladderkit"
+  },
+  "plugins": [
+    {
+      "name": "hub-kb",
+      "source": "./hub-kb",
+      "description": "中立的代理客户端知识库：概念、教程、排错。通过远程 MCP 检索，离线时回退到本地索引与网站。",
+      "version": "0.1.0"
+    }
+  ]
+}

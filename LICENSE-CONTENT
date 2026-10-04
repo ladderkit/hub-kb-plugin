@@ -1,0 +1,12 @@
+# 内容许可证
+
+本知识库的内容按 **知识共享 署名-非商业性使用-相同方式共享 4.0 国际（CC BY-NC-SA 4.0）** 许可证发布。这份文件随源仓库、npm 包 `@ladderkitlab/hub-kb` 与插件市场仓库一起分发，三处说的是同一批内容。
+
+- 许可证全文：https://creativecommons.org/licenses/by-nc-sa/4.0/
+- 适用范围：源仓库 `content/` 与 `assets/` 两个目录下的全部内容，以及由它们生成的分发物：网站页面、MCP 返回的正文、npm 包的 `snapshot/`、插件的 `index-min.json` 与 SKILL.md 里取自条目的标题与别名。代码不在此列：代码按 MIT 许可证发布，见随附的 `LICENSE`（插件市场仓库不含代码，也不附这份文件）。
+- `content/experiments/` 是内部存档，只在源仓库里：合并进源仓库不代表经网站、MCP 或插件发布；源仓库被分享时，这些文件随仓库可见，同样适用本许可证。下面的署名模板针对条目；转载实验记录时按许可证的通用署名要求注明出处。
+- 署名格式：转载或改编时请注明——
+
+  > 『{条目标题}』，来自 LadderKit（{条目 URL}），依据 CC BY-NC-SA 4.0 许可（https://creativecommons.org/licenses/by-nc-sa/4.0/）。如有改动，请注明「基于原文修改」。
+
+代码 MIT，内容 CC BY-NC-SA 4.0；向源仓库贡献内容须接受源仓库 `CONTRIBUTING.md` 的贡献条款。

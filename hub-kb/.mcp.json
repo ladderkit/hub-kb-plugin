@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hub-kb": {
+      "type": "http",
+      "url": "https://mcp.ladderkit.dev/mcp?ch=plugin"
+    }
+  }
+}
