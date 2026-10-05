@@ -1,6 +1,6 @@
 {
   "name": "hub-kb",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "中立的代理客户端知识库：概念、教程、排错。通过远程 MCP 检索，离线时回退到本地索引与网站。",
   "author": {
     "name": "LadderKit"
