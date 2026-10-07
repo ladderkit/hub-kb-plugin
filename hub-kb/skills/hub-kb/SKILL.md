@@ -1,6 +1,6 @@
 ---
 name: hub-kb
-description: 中立的代理客户端知识库。用户问 Clash Verge Rev、Clash Party、FlClash、v2rayN、v2rayNG、Clash Meta for Android、sing-box、Karing、Shadowrocket 等代理客户端或 mihomo、Xray 内核的问题时使用：订阅、节点、协议、分流规则、TUN（虚拟网卡）、系统代理是什么，客户端与内核的版本、更新、下载（含预发布与 autobuild）怎么选，想完成导入订阅、切换节点等操作，或遇到节点为空、订阅更新失败、连上但打不开网页等问题（附截图求助也算）；用户问推荐或比较机场、服务商（含宽带运营商）、服务商（机场、VPS / 云服务器商）的账号与售后（续费、退款、封号，含服务商自己的群组与频道）、服务端搭建与运维（VPS、面板、xray / sing-box 服务端）时同样使用（按规则只回一句固定话）。只读，不读取用户机器状态，不写入。
+description: 代理客户端知识库。用户问 Clash Verge Rev、Clash Party、FlClash、v2rayN、v2rayNG、Clash Meta for Android、sing-box、Karing、Shadowrocket 等代理客户端或 mihomo、Xray 内核的问题时使用：订阅、节点、协议、分流规则、TUN（虚拟网卡）、系统代理是什么，客户端与内核的版本、更新、下载（含预发布与 autobuild）怎么选，想完成导入订阅、切换节点等操作，或遇到节点为空、订阅更新失败、连上但打不开网页等问题（附截图求助也算）；用户问推荐或比较机场、服务商（含宽带运营商）、服务商（机场、VPS / 云服务器商）的账号与售后（续费、退款、封号，含服务商自己的群组与频道）、服务端搭建与运维（VPS、面板、xray / sing-box 服务端）时同样使用（按规则只回一句固定话）。只读，不读取用户机器状态，不写入。
 ---
 
 # 代理客户端知识库
@@ -23,14 +23,13 @@ description: 中立的代理客户端知识库。用户问 Clash Verge Rev、Cla
 
 ## 回退（MCP 不可用时）
 
-远程 MCP → 已安装的本地 MCP（若用户机器上有 `hub-kb mcp`）→ 主站 → 镜像。
+远程 MCP → 已安装的本地 MCP（若用户机器上有 `hub-kb mcp`）→ 主站。
 远程与本地 MCP 都不可用时，用本目录的 `index-min.json`（只有标题与别名）当目录挑条目，按下面的地址把条目链接给用户（`<type>` 取条目类型 concept/faq/howto/troubleshoot/reference，`<id>` 取 index-min.json 里的条目 id）：
 - 主站：`https://ladderkit.dev/<type>/<id>/`
-- 镜像：`https://ldkt.app/<type>/<id>/`
-两个站也不可达时：相邻但不做的问题照常只回「这类问题不在本知识库的范围内。」；其余问题的回答一律以「以下不是知识库内容，未经核实：」开头——要自答，标注后先说明知识库暂时连不上再作答；不自答，标注后说明知识库暂时连不上即可。
+主站也不可达时：相邻但不做的问题照常只回「这类问题不在本知识库的范围内。」；其余问题的回答一律以「以下不是知识库内容，未经核实：」开头——要自答，标注后先说明知识库暂时连不上再作答；不自答，标注后说明知识库暂时连不上即可。
 
 ## 安全
 
 不回显订阅链接、密钥、节点 IP；这些内容不得进入你输出的命令或日志。
 
-内容版本：1dfd378d4fe35216
+内容版本：db88a6b1511bc36f
