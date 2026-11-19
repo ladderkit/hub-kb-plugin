@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "hub-kb": {
+      "serverUrl": "https://mcp.ladderkit.dev/mcp?ch=antigravity"
+    }
+  }
+}
